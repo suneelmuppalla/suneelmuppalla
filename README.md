@@ -20,6 +20,7 @@ Skilled IT professional with 2+ years experience providing Systems Administratio
 -> Git & Github :-||||||[Skilfull]
 -> Jenkins :-||||||[Skillfull]
 -> C Language :- ||||||[skillfull]
+-> AWS :- |||||[skillfull]
 -> Microsoft office :- ||||||||||[Expert]
 
 ### Operating Systems
