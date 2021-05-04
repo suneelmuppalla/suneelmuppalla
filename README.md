@@ -1,6 +1,6 @@
 ### Here Is What I'm Working On!👋
 
-Skilled IT professional with 2+ years experience providing Systems Administration solutions in fast paced Unix/Linux environments and expertise in several flavors of Linux including Red Hat, CentOS and Ubuntu. Excellent installation, configuration, maintenance and system's users administration skills. Track record of achieving exceptional results in working technicians from various engineering disciplines to trouble shoot sev3 & 4 system-level issues and working with organizational and technical Linux (RHEL/CentOS 6/7).
+Skilled IT professional with 2+ years experience providing Systems Administration solutions in fast paced Unix/Linux environments and expertise in several flavors of Linux including Red Hat, CentOS and Ubuntu. Excellent installation, configuration, maintenance and system's users administration skills. Track record of achieving exceptional results in working technicians from various engineering disciplines to trouble shoot system-level issues and working with organizational and technical Linux (RHEL/CentOS 6/7).
 
 - 🔭 I’m currently working on ...Linux Environment
 - 🌱 I’m currently learning ...New Technologies
@@ -14,14 +14,15 @@ Skilled IT professional with 2+ years experience providing Systems Administratio
 ### SKILLS & ENDORSEMENTS 
 
 -> NagiOS  :-||||||||||[Expert] 
--> Ansibile:-||||||||||[Expert]
 -> Jira    :-||||||||||[Expert]
--> Shell Scripting :-||||||||||[Expert]
--> Git & Github :-||||||[Skilfull]
--> Jenkins :-||||||[Skillfull]
--> C Language :- ||||||[skillfull]
--> AWS :- |||||[skillfull]
+-> Shell Scripting :-||||||||||[Basic]
+-> Github :-||||||[Basic]
+-> C Language :- ||||||[Basic]
+-> AWS EC2 :- |||||[Basic]
 -> Microsoft office :- ||||||||||[Expert]
+-> Slack 
+-> Putty
+-> Virtualbox
 
 ### Operating Systems
 
